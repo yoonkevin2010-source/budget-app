@@ -55,11 +55,8 @@ Kevin Yoon
 
 ## License
 
-MIT License
+no License
 ```
 
 
-```
-git add README.md
-git commit -m "Add README documentation"
-git push origin main
+
