@@ -61,26 +61,40 @@ python budget_gui.py
 **How to Use**
 
 **Recording Transactions**: Click "Record Income" or "Record Expense" to add new transactions
+
 **Setting Budgets**: Use "Set Budget Limits" to set monthly spending limits by category
+
 **Monitoring Budget**: Click "View Budget Limits" to see current spending vs budget
+
 **Analyzing Spending**: Click "Expense Analysis" to see pie chart visualization of your spending
+
 **Managing Transactions**: Use "View/Delete" to view all transactions and delete any as needed
+
 **Exporting Data**: Click "Export to Excel" to save all data to an Excel file
 
 **File Structure**
 
 **budget_gui.py** - Main GUI application
+
 **transactions.json** - Transaction data file (auto-created)
+
 **budget_limits.json** - Budget limits data file (auto-created)
+
 **budget_data.xlsx** - Exported Excel file (created on export)
 
 **Categories**
 
 Salary
-Food
-Transportation
-Entertainment
-Other
+
+-Food
+
+-Transportation
+
+-Entertainment
+
+-Other
+
+
 
 **Future Enhancements**
 
