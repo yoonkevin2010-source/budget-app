@@ -88,7 +88,7 @@ python budget_gui.py
 
 **Categories**
 
-Salary
+-Salary
 
 -Food
 
