@@ -82,6 +82,10 @@ python budget_gui.py
 
 **budget_data.xlsx** - Exported Excel file (created on export)
 
+
+
+
+
 **Categories**
 
 Salary
