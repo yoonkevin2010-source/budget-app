@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "amount": 50000,
+        "category": "Salary",
+        "date": "\"2025-12-25\"",
+        "type": "Income"
+    },
+    {
+        "amount": 4000,
+        "category": "Food",
+        "date": "\"2025-12-30\"",
+        "type": "Expense"
+    },
+    {
+        "amount": 5000,
+        "category": "Transportation",
+        "date": "2025-12-21",
+        "type": "Expense"
+    },
+    {
+        "amount": 2000,
+        "category": "Other",
+        "date": "2025-12-25",
+        "type": "Expense"
+    }
+]
